@@ -44,8 +44,3 @@ Contribution guidelines will be outlined here.
 ## License
 License details will be available here.
 
-For more information or support, please contact [Support Email].
-
----
-
-Feel free to adjust this as needed!
