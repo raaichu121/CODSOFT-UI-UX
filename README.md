@@ -12,12 +12,6 @@ This repository contains the design and implementation files for a user authenti
 - **Log In**: Existing users can log in with their email or Google account.
 - **Password Management**: Options for users to reset their password if forgotten.
 
-## Screenshots
-Included in this repository are screenshots that illustrate each step of the authentication process:
-1. Welcome Screen - Options to log in or sign up.
-2. Sign Up - Form to create a new account.
-3. Log In - Form to access an existing account.
-
 ## Installation
 Instructions on how to install and run the application will be provided here.
 
