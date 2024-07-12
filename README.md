@@ -19,7 +19,7 @@ Instructions on how to install and run the application will be provided here.
 A step-by-step guide on how to use the application effectively will be included here.
 
 
-# Food Delivery App
+## Food Delivery App
 
 ## Overview
 A comprehensive food delivery app that allows users to order meals from local restaurants and track their delivery in real-time.
